@@ -3,12 +3,9 @@
 
 //            Summary : In this project,  I used if-else and Loops control flow statements ,functions,string and Array .
 
-
+// hello
 
 #include <iostream>
-
-
-
 #include <conio.h>
 #include <cstring>
 using namespace std;
